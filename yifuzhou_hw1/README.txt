@@ -2,7 +2,7 @@
 
 I have already compile Manager.java and Client.c files, so you just run it.
 
-First, run the Manager.
+First, run the Manager.jar
 java -jar Manager
 
 Then, use different consoles run the Client
