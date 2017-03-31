@@ -44,6 +44,7 @@ class Beacon {
 	}
 }
 
+//the method in Java to create a global value
 class GlobalValue{
 	private GlobalValue(){};
 	static ArrayList<Beacon> BeaconList = new ArrayList<Beacon>();
